@@ -1,0 +1,21 @@
+{
+  "food": 
+  [
+    {
+      "name": "Omelette",
+      "price": 4.99,
+      "calories": 400
+    },
+    {
+      "name": "Bacon and Eggs",
+      "price": 6.99,
+      "calories": 600
+    },
+    {
+      "name": "Oatmeal",
+      "price": 3.99,
+      "calories": 500
+    }
+  ]
+
+}

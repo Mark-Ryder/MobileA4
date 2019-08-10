@@ -1,0 +1,19 @@
+{
+  "food": [
+    {
+      "name": "Grilled Cheese",
+      "price": 5.99,
+      "calories": 600
+    },
+    {
+      "name": "Hamburger",
+      "price": 6.99,
+      "calories": 700
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 5.99,
+      "calories": 450
+    }
+  ]
+}
